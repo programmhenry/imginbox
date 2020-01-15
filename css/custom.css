@@ -1,0 +1,5 @@
+.boxed:not([class*='bg-']) {
+    background: url("../img/Windenreparatur.JPG");
+    background-repeat: no-repeat;
+    background-size: auto auto;
+}
